@@ -7,7 +7,7 @@
 - Schooling at St Britto Higher Secondary School. 
 
 ## TECHNICAL SKILLS
-   - programming Language
+   
        - C.
        - Java.
        - Python.
