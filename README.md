@@ -30,28 +30,28 @@
      - Back  End : MYSQL.
      
 ## AREA OF INTEREST
-     - Database Management System.
+   - Database Management System.
      
 ## INPLANT TRAINING
-     - Undergone the inplant training on Python in Elysium Technologies on 26 November 2017.
+   - Undergone the inplant training on Python in Elysium Technologies on 26 November 2017.
         
 ## COCURRICULAR ACTIVITIES
-     - Attended a Mongo DB workshop in Velammal College of Engineering and Technology on 16 October 2016.
-     - Participation Certificate on project idea from the contest of Smart India Hackathon.
-     - Won IIIrd prize on project expo contest for the project **Clone Vision at Alameen College of Engineering.
+   - Attended a Mongo DB workshop in Velammal College of Engineering and Technology on 16 October 2016.
+   - Participation Certificate on project idea from the contest of Smart India Hackathon.
+   - Won IIIrd prize on project expo contest for the project **Clone Vision at Alameen College of Engineering.
      
 ## EXTRACURRiCULAR ACTIVITIES
-     - Active member in National Social Service.
+   - Active member in National Social Service.
 ## HOBBIES
-     - Playing Cricket.
-     - Litsening Music.
+   - Playing Cricket.
+   - Litsening Music.
 ## PERSONAL PROFILE
-     - Father's Name  : K.Thandapani.
-     - Date of Birth  : 06-04-1998.
-     - Languages Known: Tamil,English.
-     - Nationality    : Indian.
-     - Residential Address
-           - 4b Koodal Malai Street,
-           - Thirupparankundram,
-           - Madurai-625005.
+   - Father's Name  : K.Thandapani.
+   - Date of Birth  : 06-04-1998.
+   - Languages Known: Tamil,English.
+   - Nationality    : Indian.
+   - Residential Address
+      - 4b Koodal Malai Street,
+      - Thirupparankundram,
+      - Madurai-625005.
            
