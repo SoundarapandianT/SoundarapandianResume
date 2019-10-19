@@ -8,17 +8,24 @@
 
 ## TECHNICAL SKILLS
    - **Programming Language**
-       - C
-       - Java
-       - Python
+       - C.
+       - Java.
+       - Python.
    - **Web Technologies**
-       - HTML
-       - CSS
-       - JavaScript
+       - HTML.
+       - CSS.
+       - JavaScript.
    - **IDE Used**
-       - NetBeans
-       - Android Studio
+       - NetBeans.
+       - Android Studio.
 ## PROJECTS
-   - 
+   - **Clone Vision**
+     - Programming Language : Python.
+     - Front End : Python.
+     - Back  End : Image Dataset.
+   - **Digital Leave Letter
+     - Programming Language : HTML,CSS,PHP.
+     - Front End : HTML,CSS.
+     - Back  End : MYSQL.
        
         
