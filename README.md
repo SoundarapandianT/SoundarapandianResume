@@ -9,6 +9,16 @@
 ## TECHNICAL SKILLS
    - **Programming Language**
        - C
-       - C++
+       - Java
        - Python
+   - **Web Technologies**
+       - HTML
+       - CSS
+       - JavaScript
+   - **IDE Used**
+       - NetBeans
+       - Android Studio
+## PROJECTS
+   - 
+       
         
