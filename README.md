@@ -3,4 +3,5 @@
 [8778179022](tel:8778179022)
 
 ## EDUCATION
--Pursuing B.E in Computer Science  at Velammal College of Engineering and Technology.
+- Pursuing B.E in Computer Science  at Velammal College of Engineering and Technology.
+- Schooling at St Britto higher secondary school. 
