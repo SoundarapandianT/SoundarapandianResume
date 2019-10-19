@@ -23,7 +23,7 @@
      - Programming Language : Python.
      - Front End : Python.
      - Back  End : Image Dataset.
-   - **Digital Leave Letter
+   - **Digital Leave Letter**
      - Programming Language : HTML,CSS,PHP.
      - Front End : HTML,CSS.
      - Back  End : MYSQL.
