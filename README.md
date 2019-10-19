@@ -7,7 +7,7 @@
 - Schooling at St Britto Higher Secondary School. 
 
 ## TECHNICAL SKILLS
-   
+   - programming Language
        - C.
        - Java.
        - Python.
@@ -43,5 +43,15 @@
 ## EXTRACURRiCULAR ACTIVITIES
      - Active member in National Social Service.
 ## HOBBIES
-     - Playing Cricket
-     - Litsening Music
+     - Playing Cricket.
+     - Litsening Music.
+## PERSONAL PROFILE
+     - Father's Name  : K.Thandapani.
+     - Date of Birth  : 06-04-1998.
+     - Languages Known: Tamil,English.
+     - Nationality    : Indian.
+     - Residential Address
+           - 4b Koodal Malai Street,
+           - Thirupparankundram,
+           - Madurai-625005.
+           
