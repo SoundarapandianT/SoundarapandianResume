@@ -4,4 +4,11 @@
 
 ## EDUCATION
 - Pursuing B.E in Computer Science  at Velammal College of Engineering and Technology.
-- Schooling at St Britto higher secondary school. 
+- Schooling at St Britto Higher Secondary School. 
+
+## TECHNICAL SKILLS
+   - **Programming Language**
+       - C
+       - C++
+       - Python
+        
