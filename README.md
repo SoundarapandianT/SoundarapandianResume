@@ -4,8 +4,8 @@
 
 ## EDUCATION
 - Pursuing Bachelor of Engineering in Computer Science  at Velammal College of Engineering and Technology.
-- I completed my Higher Secondary  from St Britto Higher Secondary School. 
-- I completed my Secondary School Leaving Certificate from Pasumalai Higher Secondary School.
+- I completed my Higher Secondary in St Britto Higher Secondary School. 
+- I completed my Secondary School Leaving Certificate in Pasumalai Higher Secondary School.
 
 ## TECHNICAL SKILLS
    - **Programming Language**
@@ -44,7 +44,7 @@
    - Active member in National Social Service.
 ## HOBBIES
    - Playing Cricket.
-   - Litsening Music.
+   - Listening Music.
 ## PERSONAL PROFILE
    - Father's Name  : K.Thandapani.
    - Date of Birth  : 06-04-1998.
