@@ -34,12 +34,12 @@
    - Database Management System.
      
 ## INPLANT TRAINING
-   - Undergone the inplant training on Python in Elysium Technologies on 26 November 2017.
+   - Undergone the inplant training on Python in Elysium Technologies on *November 2017*.
         
 ## COCURRICULAR ACTIVITIES
-   - Attended a Mongo DB workshop in Velammal College of Engineering and Technology on 16 October 2016.
+   - Attended a Mongo DB workshop in Velammal College of Engineering and Technology on *September 2017*.
    - Participation Certificate on project idea from the contest of Smart India Hackathon.
-   - Won IIIrd prize on project expo contest for the project **Clone Vision at Alameen College of Engineering.
+   - Won IIIrd prize on project expo contest for the project **Clone Vision** at Alameen College of Engineering.
      
 ## EXTRACURRICULAR ACTIVITIES
    - Active member in National Social Service.
