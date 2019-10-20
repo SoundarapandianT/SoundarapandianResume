@@ -38,7 +38,6 @@
         
 ## COCURRICULAR ACTIVITIES
    - Attended a Mongo DB workshop in Velammal College of Engineering and Technology on *September 2017*.
-   - Participation Certificate on project idea from the contest of Smart India Hackathon.
    - Won IIIrd prize on project expo contest for the project **Clone Vision** at Alameen College of Engineering.
      
 ## EXTRACURRICULAR ACTIVITIES
