@@ -41,7 +41,7 @@
    - Participation Certificate on project idea from the contest of Smart India Hackathon.
    - Won IIIrd prize on project expo contest for the project **Clone Vision at Alameen College of Engineering.
      
-## EXTRACURRiCULAR ACTIVITIES
+## EXTRACURRICULAR ACTIVITIES
    - Active member in National Social Service.
 ## HOBBIES
    - Playing Cricket.
