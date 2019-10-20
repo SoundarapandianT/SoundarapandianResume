@@ -46,10 +46,10 @@
    - Playing Cricket.
    - Listening Music.
 ## PERSONAL PROFILE
-   - Father's Name  : K.Thandapani.
-   - Date of Birth  : 06-04-1998.
-   - Languages Known: Tamil,English.
-   - Nationality    : Indian.
+   - Father's Name   : K.Thandapani.
+   - Date of Birth   : 06-04-1998.
+   - Languages Known : Tamil,English.
+   - Nationality     : Indian.
    - Residential Address
       - 4b Koodal Malai Street,
       - Thirupparankundram,
