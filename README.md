@@ -8,7 +8,7 @@
 - I completed my Secondary School Leaving Certificate from Pasumalai Higher Secondary School.
 
 ## TECHNICAL SKILLS
-   - **programming Language**
+   - **Programming Language**
        - C.
        - Java.
        - Python.
