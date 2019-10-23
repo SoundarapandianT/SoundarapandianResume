@@ -3,9 +3,9 @@
 [8778179022](tel:8778179022)
 
 ## EDUCATION
-- Pursuing Bachelor of Engineering in Computer Science  at Velammal College of Engineering and Technology.
-- I completed my Higher Secondary in St Britto Higher Secondary School. 
-- I completed my Secondary School Leaving Certificate in Pasumalai Higher Secondary School.
+- Pursuing Bachelor of Engineering in Computer Science  at Velammal College of Engineering and Technology with 72%.
+- I completed my Higher Secondary in St Britto Higher Secondary School with 77%. 
+- I completed my Secondary School Leaving Certificate in Pasumalai Higher Secondary School with 95%.
 
 ## TECHNICAL SKILLS
    - **Programming Language**
@@ -22,13 +22,12 @@
        
 ## PROJECTS
    - **Clone Vision**
-     - Programming Language : Python.
      - Front End : Python.
      - Back  End : Image Dataset.
    - **Digital Leave Letter**
-     - Programming Language : HTML,CSS,PHP.
-     - Front End : HTML,CSS.
-     - Back  End : MYSQL.
+     - Front End : HTML,CSS,JAVASCRIPT.
+     - Back  End : PHP.
+     - Database  : MYSQL.
      
 ## AREA OF INTEREST
    - Database Management System.
